@@ -1,0 +1,44 @@
+#body {
+padding: 0 30px;
+height: 800px;
+}
+
+#sidebar-container {
+  float: left;
+  width: 250px;
+  height: inherit;
+}
+
+#sidebar-container li {
+  list-style: none;
+}
+
+#sidebar-container input[type="text"] {
+  width: 100px;
+}
+
+.retailer-format{
+  width: 550px;
+  height: 120px;
+  display: inline-block;
+}
+
+#retailer-format li{
+  list-style: none;
+}
+
+#main-container {
+  width: 800px;
+}
+
+#main-container li{
+  list-style: none;
+}
+
+.box {
+  width: 150px;
+}
+
+.clear{
+    clear: both;
+}
