@@ -1,6 +1,8 @@
 nubefy-tweets
 =============
 
+Description Simple multi-module sample using spring and hibernate which would harvest top 10 tweets from a user
+
 pre-requisite
 1. create database unit_test;  --for unit test
 2. create database nubefy;  --for actual app
