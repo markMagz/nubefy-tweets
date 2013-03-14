@@ -48,5 +48,6 @@ running war file
    click on submit;
 4. check data if inserted in nubefy database
    select * from TWITTER_TWEETS;
-
+=================================================================================================================
+Additional Info: This was a Job Application exam this was my submission. I ended up not working for them.
 
